@@ -1,0 +1,6 @@
+{
+  "name": "Hidden Text Optical Illusion Generator",
+  "description": "An interactive tool to generate optical illusions (revealing text, logos, QR codes, avatars, and images when blurred or viewed from a distance) using mathematical displacement algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
